@@ -1,2 +1,3 @@
 # Dashboard-Bicicletas
-![350773143-76caf067-cb4b-4087-b5eb-563229b9fa18-transformed](https://github.com/user-attachments/assets/06db29e6-7bf0-40a1-ab18-19c4869fd419)
+![image](https://github.com/user-attachments/assets/c343d87d-f807-45d4-b329-8ce9cd3f7d6b)
+
